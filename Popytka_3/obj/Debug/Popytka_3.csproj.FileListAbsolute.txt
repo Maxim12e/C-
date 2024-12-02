@@ -1,0 +1,14 @@
+C:\Users\MMV\source\repos\Popytka_3\bin\Debug\Popytka_3.exe.config
+C:\Users\MMV\source\repos\Popytka_3\bin\Debug\Popytka_3.exe
+C:\Users\MMV\source\repos\Popytka_3\bin\Debug\Popytka_3.pdb
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.csproj.AssemblyReference.cache
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.Form1.resources
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.Properties.Resources.resources
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.csproj.GenerateResource.cache
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.csproj.CoreCompileInputs.cache
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.exe
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.pdb
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.Button_1.resources
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.Button_3.resources
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.Button_4.resources
+C:\Users\MMV\source\repos\Popytka_3\obj\Debug\Popytka_3.Button_2.resources
